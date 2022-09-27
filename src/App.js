@@ -10,7 +10,7 @@ function App() {
 			</div>
 			<small>
 				<a
-					href="https://github.com/Rakta1/Weather-React/tree/master/weather-react/my-app"
+					href="https://github.com/Rakta1/Weather-React"
 					rel="noopener noreferrer"
 					target="_blank"
 					className="source"
