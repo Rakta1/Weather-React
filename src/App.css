@@ -1,0 +1,13 @@
+.container {
+	text-align: center;
+}
+.App {
+	text-align: center;
+	background-color: #3697c8;
+	max-width: 600px;
+	margin: 20px 100px;
+}
+.source {
+	text-decoration: none;
+	color: #3697c8;
+}
