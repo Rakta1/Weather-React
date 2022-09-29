@@ -4,11 +4,11 @@ import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
 	return (
-		<div className="container">
-			<div className="App p-2 rounded">
+		<div className="App p-2 rounded">
+			<div className="container">
 				<Weather />
 			</div>
-			<small>
+			<footer>
 				<a
 					href="https://github.com/Rakta1/Weather-React"
 					rel="noopener noreferrer"
@@ -18,7 +18,7 @@ function App() {
 					Open-Source
 				</a>
 				, by Terra Wardana
-			</small>
+			</footer>
 		</div>
 	);
 }
